@@ -58,28 +58,28 @@ h1, h2, h3, h4, p {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("../lohitha/Screenshot.png");
+    background-image: url("");
     background-size: cover;
 }
 
 #gift-img-happy:hover {
-    background-image: url("../lohitha/Picsart_22-04-20_14-00-05-765.jpg");
+    background-image: url("");
 }
 
 #gift-img-hot:hover {
-    background-image: url("../lohitha/IMG-20220304-WA0048.jpg");
+    background-image: url("");
 }
 
 #gift-img-genius:hover {
-    background-image: url("../lohitha/Snapchat-1051186114.jpg");
+    background-image: url("");
 }
 
 #gift-img-badass:hover {
-    background-image: url("../lohitha/IMG-20220304-WA0048.jpg");
+    background-image: url("");
 }
 
 #gift-img-cheers:hover {
-    background-image: url("../lohitha/Screenshot(119).png");
+    background-image: url("");
 }
 
 #footer {
